@@ -12,3 +12,7 @@ application/logs/*
 # Composer
 /vendor/
 composer.lock
+/.project
+/.vagrant/
+/.settings/
+/.buildpath
